@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Olivia Wirth"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Olivia Wirth
 
 Hi! I am a PhD candidate in Development Economics at the [University of Passau](https://www.wiwi.uni-passau.de/en/development-economics). My research interests are in development economics and political economy, focusing on the role of digital technologies in agriculture, financial inclusion, and domestic revenue mobilization.
 
