@@ -9,8 +9,8 @@ redirect_from:
 
 Hi! I am a PhD candidate in Development Economics at the [University of Passau](https://www.wiwi.uni-passau.de/en/development-economics). My research interests are in development economics and political economy, focusing on the role of digital technologies in agriculture, financial inclusion, and domestic revenue mobilization.
 
-During Fall 2024, I was a visiting PhD student at [The Fletcher School at Tufts University](https://fletcher.tufts.edu/), invited by [Jenny C. Aker](https://sites.tufts.edu/jennyaker/).
-I hold an MSc in Economics from the [Ludwig Maximilian University of Munich (LMU)](https://www.econ.lmu.de/en/) and have worked as a research assistant at the [ifo Institute – Leibniz Institute for Economic Research](https://www.ifo.de/en/ifo-homepage).
+During Fall 2024, I was a visiting PhD student at The Fletcher School at Tufts University, invited by [Jenny C. Aker](https://sites.tufts.edu/jennyaker/).
+I hold an MSc in Economics from the Ludwig Maximilian University of Munich (LMU) and have worked as a research assistant at the ifo Institute – Leibniz Institute for Economic Research.
 
 If you’re interested in my research or would like to connect, feel free to reach out!
 
